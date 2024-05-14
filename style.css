@@ -1,0 +1,88 @@
+.briem-hand {
+    font-family: "Briem Hand", cursive;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+/* Optionally, apply Briem Hand font to the entire body */
+* {
+    font-family: 'Briem Hand', sans-serif;
+}
+
+.container a {
+    color: #ED7101;
+}
+
+.container a:hover {
+    color: #ED7101;
+}
+
+.navbar-brand img {
+    margin-top: -5px;
+}
+
+.navbar-brand * {
+    color: white;
+}
+
+
+.jumbotron {
+    height: 200px;
+    overflow: hidden;
+}
+
+.jumbotron p {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.jumbotron #details {
+    position: absolute;
+    color: rgb(230, 226, 226);
+}
+
+.jumbotron #details span {
+    color: #ED7101;
+}
+
+.jumbotron img {
+    width: 100%;
+}
+
+section .widgets {
+    margin-bottom: 20px;
+}
+
+.Popular {
+    background: rgb(231, 230, 230);
+    padding: 20px;
+    border-radius: 10px;
+    border: 1px solid #E3E3E3;
+
+}
+
+.Popular h4 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.Popular img {
+    width: 100%;
+    margin-top: 2px;
+}
+
+.Popular ul li {
+    list-style: none;
+}
+
+.Popular .details p {
+    font-family: Arial;
+    font-size: 11px;
+}
+
+footer {
+    background: black;
+    height: 50px;
+    line-height: 50px;
+    color: wheat;
+    letter-spacing: 1px;
+}
