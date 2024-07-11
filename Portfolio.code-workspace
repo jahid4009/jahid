@@ -1,0 +1,13 @@
+{
+    "folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../../../../Programming & Web development/Web Projects/bootstrap-5"
+		}
+	],
+    "settings": {
+        "liveServer.settings.multiRootWorkspaceName": "bootstrap-5"
+    }
+}
